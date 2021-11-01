@@ -1,4 +1,4 @@
-# Counter Lab
+# Redux Counter Lab
 
 using redux create counter it should be able to increment, decrement and reset
 * Install redux using npm install
