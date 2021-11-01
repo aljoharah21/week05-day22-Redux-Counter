@@ -1,6 +1,6 @@
 # Redux Counter Lab
 
-using redux create counter it should be able to increment, decrement and reset
+using redux create counter it should be able to `increment`, `decrement` and `reset`
 * Install redux using npm install
 * Import redux
 * Create redux store
